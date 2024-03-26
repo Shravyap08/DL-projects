@@ -58,7 +58,7 @@ Through comprehensive tuning, identification of an optimal model configuration t
 
 ## Conclusion
 
-All experiments underscore the importance of carefully choosing hyper-parameters for training neural networks. The optimal configuration achieved high accuracy without overfitting, highlighting the effectiveness of our model on the MNIST dataset.
+All experiments underscore the importance of carefully choosing hyper-parameters for training neural networks. The optimal configuration achieved high accuracy without overfitting, highlighting the effectiveness of the model on the MNIST dataset.
 
 ## Dataset Source
 
