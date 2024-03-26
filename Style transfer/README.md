@@ -28,8 +28,10 @@ The style transfer script performs the following steps:
 ## Results
 Below are some examples of the results obtained from the neural style transfer model:
 ### Content and Style Source Images
-[Content and style image](operahouse_painting_before.png)
-*Content Source Img.*
+![Content and style image](operahouse_painting_before.png)
+*Content and Style Source Img.*
 
+![Final image](operahouse_painting.png)
+*Style Transferred Img.*
 
 
