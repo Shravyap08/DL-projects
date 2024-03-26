@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-This project involves the implementation of a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset. The model consists of four convolutional blocks with batch normalization, max-pooling, and ReLU activation functions, followed by two fully connected layers for classification.
+This project involves the implementation of a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset. The model consists of four convolutional blocks with batch normalization, max-pooling, and ReLU activation functions, followed by two fully connected layers for classification. This project implements models for both balanced and imbalanced CIFAR-10 datasets.
 
 ## Model Design
 
