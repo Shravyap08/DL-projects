@@ -49,6 +49,5 @@ Unit tests were conducted to verify the functionality of focal loss compared to 
 ## Conclusion
 The model's robust architecture, along with the careful selection of hyperparameters, achieves a balance between learning capacity and computational efficiency. The results demonstrate the superiority of CB-Focal Loss in addressing class imbalance issues within the CIFAR-10 dataset.
 
-## Acknowledgments
-This project was conducted as part of an advanced machine learning course at [University Name/Institution]. Special thanks to the instructors and colleagues for their valuable feedback and insights.
+
 
