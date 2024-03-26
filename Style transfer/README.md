@@ -26,5 +26,9 @@ The style transfer script performs the following steps:
 4. Applies total variation loss to smooth the resulting image.
 
 ## Results
+Below are some examples of the results obtained from the neural style transfer model:
+### Content and Style Source Images
+![Content and style image](DL-projects/Style transfer/operahouse_painting_before.png)
+
 
 
