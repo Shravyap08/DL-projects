@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This repository contains a neural style transfer implementation that enables the stylistic combination of content from one image with the style of another. The project leverages Convolutional Neural Networks (CNNs) to transfer the style of a given artwork to a content image.
+This project contains a neural style transfer implementation that enables the stylistic combination of content from one image with the style of another. The project leverages Convolutional Neural Networks (CNNs) to transfer the style of a given artwork to a content image.
 
 ## Model Architecture
 
