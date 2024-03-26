@@ -45,7 +45,7 @@ Adjusting the regularization coefficient showed that lower values lead to better
 
 ### Hyper-parameter Tuning
 
-Through comprehensive tuning, we identified an optimal model configuration that balances the training and test accuracy, preventing overfitting while achieving high performance.
+Through comprehensive tuning, identification of an optimal model configuration that balances the training and test accuracy, preventing overfitting while achieving high performance.
 
 #### Best Configuration:
 
