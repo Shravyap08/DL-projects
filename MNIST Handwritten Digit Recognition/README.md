@@ -18,7 +18,7 @@ This project leverages several Python libraries and frameworks to implement and 
 
 ### Learning Rates
 
-Conducted experiments with different learning rates while keeping other hyper-parameters fixed. Our findings indicate that a higher learning rate tends to achieve better accuracy, but too high of a learning rate might lead to instability in training.
+Conducted experiments with different learning rates while keeping other hyper-parameters fixed. The findings indicate that a higher learning rate tends to achieve better accuracy, but too high of a learning rate might lead to instability in training.
 
 #### Results:
 
