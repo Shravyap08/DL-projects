@@ -33,5 +33,11 @@ Below are some examples of the results obtained from the neural style transfer m
 
 ![Final image](operahouse_painting.png)
 *Style Transferred Img.*
+### Content and Style Source Images
+![Content and style image](Lion_texture_before.png)
+*Content and Style Source Img.*
+![Final image](Lion_texture.png)
+*Style Transferred Img.*
+
 
 
